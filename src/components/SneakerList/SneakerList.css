@@ -1,0 +1,20 @@
+.Sneaker-List {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    grid-auto-flow: row;
+    row-gap: 10px;
+    column-gap: 10px;
+}
+
+@media screen and (max-width: 1100px) {
+    .Sneaker-List {
+        grid-template-columns: 1fr 1fr ;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .Sneaker-List {
+        grid-template-columns: 1fr;
+    }
+}

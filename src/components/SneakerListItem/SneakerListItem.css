@@ -1,0 +1,24 @@
+.Sneaker-List-Item {
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding-bottom: 20px;
+}
+
+.Sneaker-List-Item > .Sneaker-Pic {
+    max-width: 200px;
+    max-height: 150px;
+}
+
+.Sneaker-List-Item > .content > .Add-To-Cart-Button {
+    background-color: orangered;
+    border:0px;
+}
+
+.Sneaker-List-Item > .content > .Add-To-Cart-Button:hover {
+    background-color: rgb(122, 54, 29);
+    border:0px;
+}
+
+.Sneaker-List-Item > .content > h4 > .Link {
+    color: #000;
+}

@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+.NavBar {
+  border-bottom: 1px solid orangered;
+  color: orangered;
+}
+
+.NavBar-Collapse > .Navbar-Text, .NavBar-Collapse > .Navbar-Text > .Link, .NavBar-Collapse > .Navbar-Text > .Link:visited  {
+  color: orangered;
+}
+
+
+.Navbar-Brand > .Link {
+  color: #000;
+}

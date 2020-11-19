@@ -1,0 +1,28 @@
+.Cart {
+    background-color: rgb(255, 238, 232);
+    padding-top: 20px;
+}
+
+.Checkout-Button {
+    background-color: orangered;
+    border: 0px;
+    color: white;
+}
+
+.Checkout-Button:focus {
+    color: white;
+    background-color: orangered;
+}
+
+.Checkout-Button:hover {
+    color: white;
+    background-color: rgb(122, 54, 29);
+}
+
+.Checkout-Button.btn.btn-primary.btn-block.btn-lg:active {
+    background-color: orangered; 
+}
+
+.Checkout-Button:active {
+    background-color: orangered;
+}

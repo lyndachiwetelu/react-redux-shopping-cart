@@ -1,0 +1,44 @@
+[
+    {
+        "id": 21,
+        "name": "Quick Ash Sneaker",
+        "description": "2020 quick ash. Cool to the Feet.",
+        "price": 119,
+        "img": "https://res.cloudinary.com/lynda/image/upload/v1605361964/Quick-Ash-Sneaker.png" 
+    },
+    {
+        "id": 22,
+        "name": "Red Manger Sneaker",
+        "description": "2020 red manger. Exquisite",
+        "price": 120,
+        "img": "https://res.cloudinary.com/lynda/image/upload/v1605353730/Red-Manger-Sneaker.png" 
+    },
+    {
+        "id": 23,
+        "name": "Off Green Sneaker",
+        "description": "2020 off green. Simply amazing",
+        "price": 101,
+        "img": "https://res.cloudinary.com/lynda/image/upload/v1605353727/Off-Green-Sneaker.png" 
+    },
+    {
+        "id": 24,
+        "name": "Blue Glory Sneaker",
+        "description": "2020 off green. Simply Cool",
+        "price": 98,
+        "img": "https://res.cloudinary.com/lynda/image/upload/v1605353727/Blue-Glory-Sneaker.png" 
+    },
+    {
+        "id": 25,
+        "name": "Mild White Sneaker",
+        "description": "2020 mild white. Flawlessly made",
+        "price": 200,
+        "img": "https://res.cloudinary.com/lynda/image/upload/v1605353726/Mild-White-Sneaker.png" 
+    },
+    {
+        "id": 26,
+        "name": "Pink Suede Sneaker",
+        "description": "2020 pink suede. Rosy Blush",
+        "price": 150,
+        "img": "https://res.cloudinary.com/lynda/image/upload/v1605362165/Pink-Suede-Sneaker.png" 
+    }
+]
